@@ -3,12 +3,14 @@ import { RevealOnScreen } from "../RevealOnScreen"
 export const About = () => {
 
     const FrontendSkills = [
-        "React", 
-        "Vue", 
-        "TailwindCSS"
+        "ReactJs", 
+        "HTML", 
+        "TailwindCSS",
+        "Bootstrap",
+        "JavaScript"
     ];
 
-    const BackendSkills = ["Node.js", "Python", "Laravel"];
+    const BackendSkills = ["Node.js", "php", "Laravel", "MySQL"];
 
     return (
         <section 
