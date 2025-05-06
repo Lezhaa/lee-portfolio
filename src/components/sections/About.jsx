@@ -10,7 +10,7 @@ export const About = () => {
         "JavaScript"
     ];
 
-    const BackendSkills = ["Node.js", "php", "Laravel", "MySQL"];
+    const BackendSkills = [ "php", "Laravel", "MySQL"];
 
     return (
         <section 
