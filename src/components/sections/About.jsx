@@ -76,6 +76,14 @@ export const About = () => {
                     <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
                         <h3 className="text-xl font-bold mb-4">💼 Work Experience</h3>
                         <div className="space-y-4 text-gray-300">
+                        <div>
+                                <h4 className="font-bold">
+                                    {" "}
+                                    Master Control Room at Citra Tv Lamongan (2022)</h4>
+                                <p>
+                                monitor broadcast transmission, manage playback schedule, ensure audio-video quality, and handle on-air technical issues.
+                                </p>
+                            </div>
                             <div>
                                 <h4 className="font-bold">
                                     {" "}
@@ -87,7 +95,7 @@ export const About = () => {
                             <div>
                                 <h4 className="font-bold">
                                     {" "}
-                                    Editor at QofMedia (2022-2023)</h4>
+                                    Editor at QofMedia (2024-Now)</h4>
                                 <p>
                                     manage qofmedia social media accounts, design media creative content, and edit video content.
                                 </p>
