@@ -14,10 +14,9 @@ export const Project = () => {
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] text-left transition-all">
-                        <h3 className="text-xl font-bold mb-2"> Cloud Platform </h3>
+                        <h3 className="text-xl font-bold mb-2"> Project 1 </h3>
                         <p className="text-gray-400 mb-4">
-                            Scalable cloud infastructure management with real-time monitoring 
-                            and automated scaling. 
+                            Tempor est ad aliquip mollit et elit veniam nulla dolore eu sit magna amet. Incididunt labore anim voluptate consectetur pariatur incididunt do labore irure esse. Consequat tempor in nostrud officia aliquip velit esse laboris culpa.
                         </p>
                         <div>
                             {["React"].map((tech, key) => (
@@ -40,10 +39,9 @@ export const Project = () => {
                         </div>
                     </div>
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] text-left transition-all">
-                        <h3 className="text-xl font-bold mb-2"> Cloud Platform </h3>
+                        <h3 className="text-xl font-bold mb-2"> Project 2 </h3>
                         <p className="text-gray-400 mb-4">
-                            Scalable cloud infastructure management with real-time monitoring 
-                            and automated scaling. 
+                            Aute enim reprehenderit et non laboris nisi adipisicing mollit do. Mollit consectetur sit cupidatat reprehenderit laboris sunt minim ut labore nulla aliquip. Exercitation qui do proident nulla laboris reprehenderit. Proident veniam labore velit ad nulla. Proident commodo pariatur id laborum proident laborum consectetur aliquip excepteur duis nostrud amet id.
                         </p>
                         <div>
                             {["React", "Javascript"].map((tech, key) => (
